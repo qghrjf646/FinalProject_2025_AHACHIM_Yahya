@@ -1,2 +1,2 @@
 # KuaiRec
-Recommnder system for short videos
+Recommender system for short videos
