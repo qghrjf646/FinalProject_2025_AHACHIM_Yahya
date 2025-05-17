@@ -1,0 +1,23 @@
+Baseline 1 (Top-10 Most Watched)
+Mean Precision: 0.1901
+Mean Recall: 0.0014
+Mean F1: 0.0028
+Mean NDCG@10: 0.1486
+
+Baseline 2 (Top-10 by First Friend)
+Mean Precision: 0.1870
+Mean Recall: 0.0014
+Mean F1: 0.0028
+Mean NDCG@10: 0.1487
+
+Model 1 (LR):
+Precision@10: 0.5339
+Recall@10: 0.0041
+F1@10: 0.0082
+NDCG@10: 0.5474
+
+Model 2 (NN):
+Mean Precision@10: 0.3953
+Mean Recall@10: 0.0030
+Mean F1@10: 0.0060
+Mean NDCG@10: 0.3926
